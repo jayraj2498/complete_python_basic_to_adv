@@ -1,0 +1,1 @@
+ by using with statement we are writing in these xyz.txt file hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii

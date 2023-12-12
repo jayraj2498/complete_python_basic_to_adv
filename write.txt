@@ -1,0 +1,1 @@
+ hi everyone we are in write.txt file we crete it in python program and these file is automatically get created 

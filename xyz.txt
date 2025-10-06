@@ -1,1 +1,4 @@
  by using with statement we are writing in these xyz.txt file hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+ these is new line here 1
+ these is 2nd new line here no 2 
+ these is 2nd new line here no 2 
